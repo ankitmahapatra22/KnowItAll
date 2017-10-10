@@ -1,5 +1,14 @@
 # KnowItAll
 
+# Web Essentials
+
+ - HTML5
+ - Vanilla JS
+ - CSS
+ - Bootstrap
+ - jQuery
+ 
+
 # VPS :
  
  - Digital Ocean
