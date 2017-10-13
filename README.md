@@ -34,6 +34,9 @@
  - MongoDB
  - Cassandra
  - CouchBase
+ - Neo4j
+ - Arango DB
+ - Redis
  
 # RDBMS
 
@@ -41,6 +44,7 @@
  - DB2
  - Postgres
  - MySQL
+ - SQLServer
 
 # Java Frameworks 
 
@@ -99,6 +103,9 @@
  - Superset
  - Metabase
  - Cyclotron
+ - Redash
+ - Smashing
+ - Kitto
 
 # BigData & Analytics
 
